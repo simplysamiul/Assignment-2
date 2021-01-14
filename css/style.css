@@ -36,7 +36,7 @@ header{
 .banner-text p{
     font-size: 15px;
 }
-.banner-text button{
+button{
     background-color:#3949d6;
     color: white;
     padding: 10px 20px;
@@ -58,4 +58,27 @@ header{
 }
 .formal-shoes-area{
     margin-top: 60px;   
+}
+.product-area p{
+    font-size: 12px;
+}
+.product-area h5{
+    color:#363958;
+    font-weight: 600;
+}
+.product-area button{
+    float: right;
+}
+.product-area span{
+    font-size: 30px;
+    color:#fa804c;
+    font-weight: 700;
+}
+.card-bottom{
+    background-color: #ffffff;
+    border: none;
+}
+.card-border{
+    border: none;
+    box-shadow: 10px 10px 20px #f2f0f0;
 }
