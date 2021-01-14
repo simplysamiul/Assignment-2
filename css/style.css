@@ -33,7 +33,9 @@ button{
 
 /* ............Header area end.........*/
 
-
+.formal-shoes-area{
+    margin-bottom: 100px;
+}
 .product-area{
     margin-top: 30px;
 }
@@ -68,3 +70,57 @@ button{
     border: none;
     box-shadow: 10px 10px 20px #f2f0f0;
 }
+
+/*...............End Product Area.........*/
+
+.contact-area{
+    height: 500px;
+    margin-bottom: 200px;
+}
+
+.contact-info-width{
+    width: 500px;
+    float: left;
+}
+.contact-info{
+    width: 460px;
+    height: 130px;
+    box-shadow: 10px 10px 20px #f2f0f0;
+    border-radius: 15px;
+    margin: 5px 5px 25px 0;
+    padding: 10px 10px 10px 0;
+}
+.contact-image{
+    width: 30%;
+    margin-left: 20px;
+}
+.contact-image img{
+    width: 70px;
+    float: left;
+    padding-top: 20px ;
+}
+.image-text{
+    width: 80%;
+    padding-left:120px;
+    padding-top: 15px;
+}
+.image-text h4{
+   color:#363958 ;
+   font-weight: 700;
+}
+.image-text p{
+    font-size: 14px;
+    color: #737373;
+}
+
+.contact-image-width{
+    width: 600px;
+    float: right;
+}
+.contact-image-width img{
+    width: 100%;
+    padding: 120px 0 0 80px;   
+}
+
+/*...........End Contact Info Area..........*/
+
