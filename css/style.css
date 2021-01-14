@@ -1,0 +1,61 @@
+header{
+   background-color: #fff9f4;
+}
+
+.nav-menu a{
+    color: #000000;
+    
+}
+.banner-image{
+    width: 40%;
+}
+.banner-image img{
+    width: 100%;
+    float: left;
+}
+.banner-area{
+    height: 450px;
+    padding: 20px;
+}
+.banner-text{
+    width: 40%;
+    float: right;
+    padding-top: 55px;
+
+}
+.banner-text h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+.first{
+    color: #fa804c;
+}
+.second{
+    color: #363958;
+}
+.banner-text p{
+    font-size: 15px;
+}
+.banner-text button{
+    background-color:#3949d6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+
+/* ............Header area end.........*/
+
+
+.product-area{
+    margin-top: 30px;
+}
+.product-area h2{
+    font-size: 25px;
+    font-weight: 600;
+    color: #363958;
+}
+.formal-shoes-area{
+    margin-top: 60px;   
+}
